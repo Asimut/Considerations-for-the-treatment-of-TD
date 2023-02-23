@@ -15,11 +15,12 @@
  }
  .cover__header {
      position: relative;
-     padding-bottom: 50px;
+     /* padding-bottom: 50px;
      background: transparent -webkit-gradient(linear,left top, right top,from(#43588d),to(#20223e)) 0 0 no-repeat;
      background: transparent -o-linear-gradient(left,#43588d,#20223e) 0 0 no-repeat;
      background: transparent linear-gradient(90deg,#43588d,#20223e) 0 0 no-repeat;
- }
+  */
+    }
  .cover__header-content-title{
      position: relative;
  }
